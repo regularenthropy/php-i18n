@@ -1,9 +1,10 @@
-# 🔑 php-i18n
+# 🌍 php-i18n
 
 Simple i18n localization library for PHP (WIP)
 
 # ✅ Roadmap
 - [X] Add support for basic i18
+- [ ] Write unit tests
 - [ ] Add support for variables
 - [ ] Add support for custom labels
 
